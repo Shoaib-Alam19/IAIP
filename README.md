@@ -20,7 +20,7 @@ Python, pandas, matplotlib, seaborn, SQLite, Google Colab
 4. SQL queries (SQLite) chalayi: top teams, season-wise toss impact, top venues
 
 ### Key Insights
-- Mumbai Indians ne sabse zyada matches jeete (___ wins), uske baad Chennai Super Kings aur Kolkata Knight Riders
+- Mumbai Indians ne sabse zyada matches jeete (144 wins), uske baad Chennai Super Kings 138 aur Kolkata Knight Riders 131
 - Toss jeetne wali team ne sirf **50.8%** matches jeete, matlab toss ka impact bahut kam hai
 - Chase karne wali team **54.1%** matches jeeti, pehle batting karne wali **45.9%**
 - 2016 ke baad zyadatar teams toss jeetke fielding choose karti hain
